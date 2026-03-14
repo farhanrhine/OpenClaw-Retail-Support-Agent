@@ -225,7 +225,7 @@ This proves:
 
 ---
 
-# For your demo video (best flow)
+# (best flow)
 
 Use this sequence:
 
