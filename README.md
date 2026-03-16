@@ -99,7 +99,9 @@ workspace/
 
 # how to run
 
-```openclaw gateway
+```
+openclaw gateway
+
 ```
 ```
 openclaw gateway --token test123
