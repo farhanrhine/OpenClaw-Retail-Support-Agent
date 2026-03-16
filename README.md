@@ -79,6 +79,7 @@ This system ensures customers receive quick responses even when human support ag
 
 # my final project looks like this.
 
+```
 workspace/
 │
 ├ data/
@@ -94,6 +95,15 @@ workspace/
 ├ AGENTS.md
 ├ TOOLS.md
 └ README.md
+```
+
+# how to run
+
+```openclaw gateway
+```
+```
+openclaw gateway --token test123
+```
 
 
 
